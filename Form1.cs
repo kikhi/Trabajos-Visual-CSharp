@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Progr26_Silba_Tinoco_Daniel_Eduardo
+namespace Progr26_Trujillo_Garay_Cesar_Andres
 {
     public partial class Form1 : Form
     {
