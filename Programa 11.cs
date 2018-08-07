@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Programa_17_Paredes_Romero_Adan
+namespace Programa_17_Trujillo_Garay_Cesar_Andres
 {
     public partial class Form1 : Form
     {
